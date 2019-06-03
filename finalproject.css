@@ -1,0 +1,60 @@
+/* Name: Hannah Solge
+*  Date: May 30,2019
+*  Lab: C13 Fixed Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: monospace;
+    width: 900px ;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid #ea525c;
+    background-color: #c9c5c5;
+}
+
+h1 {
+    padding: 10px;
+}
+img {
+    height: 270px;
+    width: 255px;
+    border: 2px solid #ea525c;
+    padding:2px;
+}
+
+header {
+    border-bottom: 2px solid #ea525c;
+    padding: 20px
+}
+#sidebarb {
+    width: 20%;
+    height: 500px;
+    float: left;   
+    border-right: solid #ea525c;
+    padding: 10px;
+}
+
+main {
+    height:500px ;
+    width: 50% ;
+    border-right: 2px solid #ea525c;
+    float: left;
+    padding: 10px;
+}
+
+#sidebara {
+    width: 20%;
+    height:500px;
+    float: left;
+    padding: 10px;
+}
+
+footer {
+    clear: both;
+    border-top: 2px solid #ea525c;
+    padding: 10px;
+}
